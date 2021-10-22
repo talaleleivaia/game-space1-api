@@ -1,0 +1,31 @@
+{"game-tiles": [
+    {
+      "id": 0,
+      "title": "Hello World!",
+      "description": "A new developer makes a hello world application that so happens to say a bit more tham just hello.",
+      "length": "10 minutes",
+      "genre": [ "interactive fiction", "sci-fi" ],
+      "platform": "web",
+      "image": "Some Image"
+    },
+
+    {
+        "id": 1,
+        "title": "Secret Agent Mystery",
+        "description": "An interactive fiction based on a James Bond short story.",
+        "length": "90  minutes",
+        "genre": ["interactive fiction", "mystery"],
+        "platform": "web",
+        "image": "Some Image"
+      },
+
+    {
+        "id": 2,
+        "title": "The Ghost in the Fridge",
+        "description": "An interactie fiction about a ghost stealing leftovers from the fridge that they haunt.",
+        "length": "10 minutes",
+        "genre": ["interactive-fiction, horror"],
+        "platform": "web",
+        "image": "Some Image"
+      }
+  ]}
