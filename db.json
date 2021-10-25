@@ -6,8 +6,7 @@
       "description": "A new developer makes a hello world application that so happens to say a bit more tham just hello.",
       "length": "10 minutes",
       "genre": "interactive fiction",
-      "platform": "web",
-      "image": "/Users/talei/Desktop/Bottega/game-space1-api/photos/hello-world.jpg"
+      "platform": "web"
     },
     {
       "id": 1,
@@ -15,8 +14,7 @@
       "description": "An interactive fiction based on a James Bond short story.",
       "length": "90  minutes",
       "genre": "interactive fiction",
-      "platform": "web",
-      "image": "Some Image"
+      "platform": "web"
     },
     {
       "id": 2,
@@ -24,8 +22,7 @@
       "description": "A game of unbelievable scenarios that just keeps unwinding and unraveling into random, wild, and weird occurrences.",
       "length": "10 minutes",
       "genre": "interactive fiction",
-      "platform": "web",
-      "image": "Some Image"
+      "platform": "web"
     }
   ]
 }
