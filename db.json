@@ -3,27 +3,26 @@
     {
       "id": 0,
       "title": "Hello World!",
-      "description": "A new developer makes a hello world application that so happens to say a bit more tham just hello.",
-      "length": "10 minutes",
+      "description": "A new developer makes a hello world application that so happens to say a bit more than just hello.",
       "genre": "interactive fiction",
       "platform": "web",
       "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/hello-world.jpg?raw=true"
     },
     {
       "id": 1,
-      "title": "Secret Agent Mystery",
+      "title": "Agent Marsh",
       "description": "An interactive fiction based on a James Bond short story.",
-      "length": "90  minutes",
       "genre": "interactive fiction",
-      "platform": "web"
+      "platform": "web",
+      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/agent-marsh.jpg"
     },
     {
       "id": 2,
-      "title": "Would You Rather",
-      "description": "A game of unbelievable scenarios that just keeps unwinding and unraveling into random, wild, and weird occurrences.",
-      "length": "10 minutes",
+      "title": "Oneiric",
+      "description": "(ōˈnīrik) A game relating to the funky, wild, and seemingly random occurances in our dreams." ,
       "genre": "interactive fiction",
-      "platform": "web"
+      "platform": "web",
+      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/oneiric-01.jpg"
     }
   ]
 }
