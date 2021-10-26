@@ -14,7 +14,7 @@
       "description": "An interactive fiction based on a James Bond short story.",
       "genre": "interactive fiction",
       "platform": "web",
-      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/agent-marsh.jpg"
+      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/agent-marsh.jpg?raw=true"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "description": "(ōˈnīrik) A game relating to the funky, wild, and seemingly random occurances in our dreams." ,
       "genre": "interactive fiction",
       "platform": "web",
-      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/oneiric-01.jpg"
+      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/oneiric-01.jpg?raw=true"
     }
   ]
 }
