@@ -2,14 +2,6 @@
   "game-tiles": [
     {
       "id": 0,
-      "title": "Hello World!",
-      "description": "A new developer makes a hello world application that so happens to say a bit more than just hello.",
-      "genre": "interactive fiction",
-      "platform": "web",
-      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/hello-world.jpg?raw=true"
-    },
-    {
-      "id": 1,
       "title": "Agent Marsh",
       "description": "An interactive fiction based on a James Bond short story.",
       "genre": "interactive fiction",
@@ -17,7 +9,7 @@
       "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/images/agent-marsh.jpg?raw=true"
     },
     {
-      "id": 2,
+      "id": 1,
       "title": "Oneiric",
       "description": "(ōˈnīrik) A game relating to the funky, wild, and seemingly random occurances in our dreams." ,
       "genre": "interactive fiction",
