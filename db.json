@@ -3,17 +3,19 @@
     {
       "id": 0,
       "title": "Agent Marsh",
-      "description": "An interactive fiction based on a James Bond short story.",
+      "description": "We need you to come back to base and figure out what has happened to our intel carrier. Do you accept?",
       "genre": "interactive fiction",
       "platform": "web",
+      "button-text": "[Mission Accepted]",
       "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/agent-marsh.jpg?raw=true"
     },
     {
       "id": 1,
       "title": "Oneiric",
-      "description": "(ōˈnīrik) A game relating to the funky, wild, and seemingly random occurances in our dreams." ,
+      "description": "(ōˈnīrik): A game relating to the funky, wild, and seemingly random occurrences in our dreams. Are You ready to go to sleep?" ,
       "genre": "interactive fiction",
       "platform": "web",
+      "button-text": "[Go to sleep]", 
       "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/oneiric-01.jpg?raw=true"
     }
   ]
