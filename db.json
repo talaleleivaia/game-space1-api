@@ -7,7 +7,10 @@
       "genre": "interactive fiction",
       "platform": "web",
       "button-text": "[Mission Accepted]",
-      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/agent-marsh.jpg?raw=true"
+      "image1": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/spy-photo1.jpg?raw=true",
+      "image2": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/spy-photo2.jpg?raw=true",
+      "image3": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/spy-photo3.jpg?raw=true",
+      "image4": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/agent-marsh.jpg?raw=true"
     },
     {
       "id": 1,
@@ -16,7 +19,10 @@
       "genre": "interactive fiction",
       "platform": "web",
       "button-text": "[Go to sleep]", 
-      "image": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/oneiric-01.jpg?raw=true"
+      "image1": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/dream-photo1.jpg?raw=true",
+      "image2": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/dream-photo2.jpg?raw=true",
+      "image3": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/dream-photo3.jpg?raw=true",
+      "image4": "https://github.com/talaleleivaia/game-space1-api/blob/main/assets/images/dream-photo4.jpg?raw=true"
     }
   ]
 }
